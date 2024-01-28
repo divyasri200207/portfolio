@@ -1,0 +1,28 @@
+.education > img{
+    width: 350px;
+    height: 179px;
+}
+.education{
+    margin: 15px;
+    width: 350px;
+    height: 179px;
+    transform: transform 100ms ease-in;
+}
+.education:hover{
+    color: white;
+    background-color: yellow;
+    transform: scale(1.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.education__content{
+    padding: 10px;
+}
+.education__content > h4 {
+    padding-bottom: 5px;
+}
+.education__content > p {
+    font-size: 15px;
+}
