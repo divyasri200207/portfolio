@@ -2,7 +2,7 @@
 .educationcontainer{
     display: flex;
     flex-direction: column;
-    color: white;
+    color:white;
     justify-content: center;
     margin: 200px 0;
     align-items: center;

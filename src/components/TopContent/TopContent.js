@@ -12,7 +12,7 @@ const TopContent = () => {
               with a strong foundation in web development and a keen 
               interest in creating engaging user experiences,i'm excited
                to embark on my professional journey in the world of technology.</p>
-            <a href="https://drive.google.com/file/d/1prk_XpLLfTU_HgS1Ca6qZ6jK29kH2YWO/view?usp=drive_link">
+            <a href="https://drive.google.com/file/d/1kZSIjBZW_o0sU37hgO-FasENJho7I1Fb/view?usp=drive_link">
                 <button className="topContent__downloadButton">Download CV</button>
             </a>
             <Link to="projects" smooth={true} duration={500}>

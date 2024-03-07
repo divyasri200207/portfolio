@@ -9,7 +9,7 @@
     transform: transform 100ms ease-in;
 }
 .education:hover{
-    color: white;
+    color: black;
     background-color: yellow;
     transform: scale(1.05);
     display: flex;

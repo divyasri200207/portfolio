@@ -13,7 +13,7 @@ const Contact = () => {
                 Email : <span>dhivyashrii89@gmail.com</span>
             </p>
             <p>
-                Github Username : <span>Divyasri1907</span>
+                Github Username : <span>divyasri200207</span>
             </p>
             <div className="contact__icons">
                 <a href="https://www.linkedin.com/in/divyasri-c-5b0a00267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">

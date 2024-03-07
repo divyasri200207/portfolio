@@ -6,7 +6,7 @@ const EducationContainer = () => {
     const educations=[
         {
             img:"https://www.canr.msu.edu/contentAsset/image/6d081af8-8fa6-4927-bc64-c1ee0dca1b12/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80",
-            title:"MCA -78%",
+            title:"MCA -79%",
             desc:
             
            "Dr.Mahalingam College Of Engineering And Technology",
